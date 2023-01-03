@@ -23,6 +23,11 @@ Warning: This project is in progress.
   - ...
   - ...
 
-add image
+- Lecture notes:
+	- [Coordinate Descent](https://www.stat.cmu.edu/~ryantibs/convexopt-S15/lectures/22-coord-desc.pdf)
+	- [Sequential Quadratic Programming](https://www.math.uh.edu/~rohop/fall_06/Chapter4.pdf)
+	- [Interior Point Method](https://www.math.uwaterloo.ca/~hwolkowi/henry/reports/talks.d/t06talks.d/06msribirs.d/summercoursemsri07.d/intptbookpgs.pdf)
 
-![abc](figs/anaconda.png)
+<!-- add image
+
+![abc](figs/anaconda.png) -->
