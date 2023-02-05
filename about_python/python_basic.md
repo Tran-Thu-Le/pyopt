@@ -82,7 +82,6 @@ gpa = 3.5
 
 A boolean value can only be either `True` or `False`.
 
-pythonCopy code
 
 ```py
 is_student = True
@@ -146,7 +145,6 @@ greet("John Doe")
 
 A tuple is an ordered, immutable collection of elements of any data type. You can define a tuple by enclosing its elements in parentheses and separating them by commas.
 
-makefileCopy code
 
 ```py
 point = (1, 2)
@@ -156,7 +154,6 @@ point = (1, 2)
 
 A list is an ordered, mutable collection of elements of any data type. You can define a list by enclosing its elements in square brackets and separating them by commas.
 
-cssCopy code
 
 ```py
 numbers = [1, 2, 3, 4, 5]
@@ -166,7 +163,6 @@ numbers = [1, 2, 3, 4, 5]
 
 A dictionary is an unordered, mutable collection of key-value pairs. You can define a dictionary by enclosing its elements in curly braces and separating each key-value pair with a colon.
 
-makefileCopy code
 
 ```py
 person = {"name": "John Doe", "age": 30}
