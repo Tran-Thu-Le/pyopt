@@ -150,5 +150,5 @@ if __name__ == "__main__":
     plt.figure(1, (5, 5))
     plot_convex_set(A, b, xmin=0, xmax=3, ymin=0, ymax=3)
     plt.xlim([-0.5, 2.5])
-    plt.ylim([-0.5, 2.5])
+    plt.ylim([-0.5, 1.5])
     plt.show()
