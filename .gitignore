@@ -1,5 +1,6 @@
 # .gitignore 
 # figs/*
 old/*
-# out/*
+out/*
 machine_learning/optimal_transport/data/*
+machine_learning/data/*
